@@ -1,0 +1,2 @@
+Frota: B, Item a ser coletado: Uva , Endereço: Brasilia, Tipo do lixo: Lixo Comum
+Frota: A, Item a ser coletado: Uva , Endereço: Brasilia, Tipo do lixo: Lixo Comum
